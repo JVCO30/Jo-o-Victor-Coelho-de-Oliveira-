@@ -10,7 +10,7 @@ Estudante do 2º semestre de Ciência da Computação na **UFVJM**. Atuo no dese
 
 ### 📊 Projetos em Destaque
 - 🏥 **Automação Back-End (Farmácia):** Desenvolvimento de fluxos em n8n e tratamento de dados via Python para validação automática de laudos farmacêuticos, aplicando técnicas rigorosas de mascaramento de dados (LGPD). *(Repositório Privado por Compliance)*.
-- 🦷 [Consultório Odontológico](https://github.io): Landing page otimizada focada em conversão na área médica. Desenvolvida em co-criação com LLMs (Claude) atuando como copiloto sob metodologias avançadas de engenharia de prompt.
+- 🦷 [Consultório Odontológico](https://jvco30.github.io/Consult-rio-Odontol-gico/): Landing page otimizada focada em conversão na área médica. Desenvolvida em co-criação com LLMs (Claude) atuando como copiloto sob metodologias avançadas de engenharia de prompt.
 
 ---
 📫 **Contato:** joaovictorcoelhodeoliveira2@gmail.com| https://www.linkedin.com/in/joão-victor-coelho-de-oliveira-724a14364?utm_source=share_via&utm_content=profile&utm_medium=member_ios
