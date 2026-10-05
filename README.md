@@ -79,7 +79,7 @@ Landing page responsiva desenvolvida para um consultório odontológico, com foc
 * Interações com JavaScript
 * Deploy utilizando GitHub Pages
 
-🌐 **[Ver projeto online](https://jvco30.github.io/Consult-rio-Odontol-gico/)**
+🌐 **[Ver projeto online](https://jvco30.github.io/consultorio-odontologico/)**
 
 🔗 **[Ver código no GitHub](https://github.com/JVCO30/Consult-rio-Odontol-gico)**
 
